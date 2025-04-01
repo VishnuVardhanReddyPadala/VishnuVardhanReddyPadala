@@ -2,8 +2,10 @@
 
 
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=750&lines=Hey+Devs!%2C+Vishnu here.+%3Cdevelopers%2F%3E!+Code+debug+deploy+repeat!💻🔥" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=750&lines=Hey+Devs!%2C+Vishnu+here.+%3Cdevelopers%2F%3E!+Code+debug+deploy+repeat!💻🔥" alt="Typing SVG" />
 </p>
+
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
