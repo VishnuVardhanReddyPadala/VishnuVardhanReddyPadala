@@ -55,4 +55,5 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<img alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavK-09&theme=github-compact" />
+<img alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuVardhanReddyPadala&theme=github-compact" />
+
