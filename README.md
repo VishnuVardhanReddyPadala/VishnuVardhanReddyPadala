@@ -19,7 +19,7 @@
 </p>
 
 <div style="display: flex; flex-direction: column; align-items: center;">
-    <span style="font-weight: bold; margin-bottom: 50px;"> Skills </span>
+    <span style="font-weight: bold; margin-bottom: 5px;"> Skills </span>
     <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Flaptop-on-fire-stickers&psig=AOvVaw1MH884Vqb0rJyE7XxXjF2_&ust=1743568976963000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCOCWl96CtowDFQAAAAAdAAAAABAI" target="_blank">
         <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl6ZWcyOGlzeWM5MDE5d3VlNTBneW5ncmVrZXpqMWZsZXRkZTNhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.gif" alt="Laptop GIF" width="50" style="margin-top: 10px;"/>
     </a>
