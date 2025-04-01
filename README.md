@@ -22,7 +22,7 @@
 
 
 <h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl6ZWcyOGlzeWM5MDE5d3VlNTBneW5ncmVrZXpqMWZsZXRkZTNhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.gif" alt="Bar Chart" width="25" height="25" />  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl6ZWcyOGlzeWM5MDE5d3VlNTBneW5ncmVrZXpqMWZsZXRkZTNhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.gif" alt="Bar Chart" width="50" height="50" />  
   Skills
 </h2>
 
