@@ -44,8 +44,7 @@
 | **Design Tools**    | ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma) ![Adobe XD](https://img.shields.io/badge/ADOBE%20XD-purple?style=for-the-badge&logo=adobexd) |
 | **Learning**        | ![Udemy](https://img.shields.io/badge/UDEMY-blue?style=for-the-badge&logo=udemy) ![Coursera](https://img.shields.io/badge/COURSERA-2A73CC?style=for-the-badge&logo=coursera) |
 
-      </td>
-    </tr>
+
   </table>
 </div>
 
