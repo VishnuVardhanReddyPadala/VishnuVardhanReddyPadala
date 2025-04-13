@@ -3,8 +3,7 @@
 </p>
 
 <p align="center">
-  Passionate Web & ML Developer | Building Smart Apps | Merging React with AI 🧠✨ <br/>
-  From Hyderabad, India 🇮🇳 | B.Tech Pre-final Year | Machine Learning Intern @ Bharat Intern 🚀
+  Hey there! I’m a Web & ML Developer blending creativity with code.
 </p>
 
 <!-- Visitor Badge + Links -->
