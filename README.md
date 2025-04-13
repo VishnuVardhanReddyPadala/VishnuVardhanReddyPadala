@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  React, Python & AI — Building tools that are as smart as they are sleek.
+   I love building applications with React and Machine Learning. I’m always focused on creating clean, efficient code 🧑‍💻 and building solutions that are both scalable and user-friendly. Constantly learning and experimenting with new ideas to push the boundaries of what I can create
 </p>
 
 <!-- Visitor Badge + Links -->
