@@ -1,35 +1,35 @@
-
-
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=750&lines=Hey+Devs!%2C+Vishnu+here.+Code+debug+deploy+repeat!💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=750&lines=Hey+Devs!%2C+I'm+Vishnu+here." alt="Typing SVG" />
 </p>
 
+<p align="center">
+  Passionate Web & ML Developer | Building Smart Apps | Merging React with AI 🧠✨ <br/>
+  From Hyderabad, India 🇮🇳 | B.Tech Pre-final Year | Machine Learning Intern @ Bharat Intern 🚀
+</p>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Visitor Badge + Links ----------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
+<!-- Visitor Badge + Links -->
 <div align="center">
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVishnuVardhanReddyPadala&countColor=%23263759" />
   <br><br>
-  <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-padala-a3a13330b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Vishnu-Vardhan" /></a>
-  <a href="https://dev.to/vishnu_03"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username anmolbaranwal" /></a>
-  <a href="http://anmolbaranwal.com/"><img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of anmol baranwal" /></a>
-  <a href="mailto:vishnuvardhan6842@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Vishnu i.e. vishnuvardhan6842@gmail.com" /></a>
-  <a href="https://twitter.com/Anmol_Codes"><img src="https://img.shields.io/badge/Twitter-d5d5d5?style=for-the-badge&logo=x&logoColor=0A0209" alt="profile of Twitter with username Anmol_Codes" ></a>
+  <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-padala-a3a13330b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" /></a>
+  <a href="mailto:vishnuvardhan6842@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
+  <a href="https://anmolbaranwal.com/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" /></a>
+  <a href="https://dev.to/vishnu_03"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" /></a>
 </div>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="GitHub Banner"/>
-</p>
+<br/>
 
-<h2>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDl6ZWcyOGlzeWM5MDE5d3VlNTBneW5ncmVrZXpqMWZsZXRkZTNhayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/Kfl09udXYhbjajJwEt/giphy.gif" alt="Bar Chart" width="41" height="41" /> Skills
-</h2>
+<!-- Image + Skills section -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Coding Desk GIF" width="500px"/>
+      </td>
+      <td>
 
-
+<h2>🛠️ Skills</h2>
 
 | Category             | Skills |
 |----------------------|--------|
@@ -45,23 +45,29 @@
 | **Design Tools**    | ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma) ![Adobe XD](https://img.shields.io/badge/ADOBE%20XD-purple?style=for-the-badge&logo=adobexd) |
 | **Learning**        | ![Udemy](https://img.shields.io/badge/UDEMY-blue?style=for-the-badge&logo=udemy) ![Coursera](https://img.shields.io/badge/COURSERA-2A73CC?style=for-the-badge&logo=coursera) |
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" />  
-  GitHub Stats:
+---
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" width="25" height="25" />  
+  GitHub Stats
 </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanReddyPadala&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVardhanReddyPadala&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VishnuVardhanReddyPadala&show_icons=true&theme=dark&count_private=true&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=VishnuVardhanReddyPadala&layout=compact&langs_count=5&theme=dark&hide_border=true" height="150" />
 </div>
 
+---
 
+<h2 align="center">
+  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="28" /> Contribution Graph
+</h2>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<img alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuVardhanReddyPadala&theme=github-compact" />
-
-
-
+<p align="center">
+  <img alt="Activity" src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuVardhanReddyPadala&theme=github-compact" />
+</p>
