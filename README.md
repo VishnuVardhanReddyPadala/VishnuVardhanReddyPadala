@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  A Web & ML Developer blending creativity with code.
+  React, Python & AI — Building tools that are as smart as they are sleek.
 </p>
 
 <!-- Visitor Badge + Links -->
