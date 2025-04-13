@@ -38,21 +38,22 @@
       </td>
       <td>
 
-<h2>🛠️ Skills</h2>
+<h2>💻 Skills</h2>
 
 | Category             | Skills |
 |----------------------|--------|
-| **Frameworks**      | ![Next.js](https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/REACT-blue?style=for-the-badge&logo=react) ![Express.js](https://img.shields.io/badge/EXPRESS.JS-green?style=for-the-badge&logo=express) ![Node.js](https://img.shields.io/badge/NODE.JS-green?style=for-the-badge&logo=node.js) |
-| **Languages**       | ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-blue?style=for-the-badge&logo=typescript) ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B) ![Python](https://img.shields.io/badge/PYTHON-yellow?style=for-the-badge&logo=python) |
-| **Styling & UI**    | ![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3) ![Tailwind](https://img.shields.io/badge/TAILWIND-38B2AC?style=for-the-badge&logo=tailwindcss) ![Bootstrap](https://img.shields.io/badge/BOOTSTRAP-purple?style=for-the-badge&logo=bootstrap) |
-| **Databases**       | ![MongoDB](https://img.shields.io/badge/MONGODB-green?style=for-the-badge&logo=mongodb) ![MySQL](https://img.shields.io/badge/MYSQL-blue?style=for-the-badge&logo=mysql) ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-316192?style=for-the-badge&logo=postgresql) |
-| **Tools & Services** | ![GitHub](https://img.shields.io/badge/GITHUB-black?style=for-the-badge&logo=github) ![Firebase](https://img.shields.io/badge/FIREBASE-FFCA28?style=for-the-badge&logo=firebase) ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker) |
-| **Competitive Coding** | ![LeetCode](https://img.shields.io/badge/LEETCODE-orange?style=for-the-badge&logo=leetcode) ![CodeChef](https://img.shields.io/badge/CODECHEF-brown?style=for-the-badge&logo=codechef) |
-| **IDEs & Environment** | ![VSCode](https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logo=visual-studio-code) ![Replit](https://img.shields.io/badge/REPLIT-6666FF?style=for-the-badge&logo=replit) |
-| **Hosting**         | ![Vercel](https://img.shields.io/badge/VERCEL-black?style=for-the-badge&logo=vercel) ![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify) |
-| **APIs**           | ![Postman](https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge&logo=postman) ![Twilio](https://img.shields.io/badge/TWILIO-red?style=for-the-badge&logo=twilio) |
-| **Design Tools**    | ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma) ![Adobe XD](https://img.shields.io/badge/ADOBE%20XD-purple?style=for-the-badge&logo=adobexd) |
-| **Learning**        | ![Udemy](https://img.shields.io/badge/UDEMY-blue?style=for-the-badge&logo=udemy) ![Coursera](https://img.shields.io/badge/COURSERA-2A73CC?style=for-the-badge&logo=coursera) |
+| **Frameworks**      | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) |
+| **Languages**       | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Styling & UI**    | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
+| **Databases**       | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) |
+| **Tools & Services** | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
+| **Competitive Coding** | ![LeetCode](https://img.shields.io/badge/LeetCode-FB5D27?style=for-the-badge&logo=leetcode&logoColor=white) ![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white) |
+| **IDEs & Environment** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Replit](https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=replit&logoColor=white) |
+| **Hosting**         | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
+| **APIs**           | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-ED4C5C?style=for-the-badge&logo=twilio&logoColor=white) |
+| **Design Tools**    | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white) |
+| **Learning**        | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white) ![Coursera](https://img.shields.io/badge/Coursera-2A73CC?style=for-the-badge&logo=coursera&logoColor=white) |
+
 
 
   </table>
