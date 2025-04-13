@@ -8,11 +8,21 @@
 
 <!-- Visitor Badge + Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-padala-a3a13330b"><img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" /></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" /></a>
-  <a href="mailto:vishnuvardhan6842@gmail.com"><img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" /></a>
-  <a href="https://anmolbaranwal.com/"><img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" /></a>
-  <a href="https://dev.to/vishnu_03"><img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" /></a>
+  <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-padala-a3a13330b">
+  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
+</a>
+<a href="https://discord.com/users/">
+  <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" />
+</a>
+<a href="mailto:vishnuvardhan6842@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" />
+</a>
+<a href="https://anmolbaranwal.com/">
+  <img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" />
+</a>
+<a href="https://dev.to/vishnu_03">
+  <img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" />
+</a>
   <br><br>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVishnuVardhanReddyPadala&countColor=%23263759" />
 </div>
