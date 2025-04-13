@@ -63,7 +63,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/3ohhwF34cGDoFFhRfy/giphy.gif" width="28" /> Contribution Graph
+  Contribution Graph
 </h2>
 
 <p align="center">
