@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  Hey there! I’m a Web & ML Developer blending creativity with code.
+  A Web & ML Developer blending creativity with code.
 </p>
 
 <!-- Visitor Badge + Links -->
