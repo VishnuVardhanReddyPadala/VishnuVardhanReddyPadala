@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=1002&lines=Hey+Devs!+I'm+Vishnu+here,+turning+caffeine+and+code+into+real-world+applications+👊🏼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=1004&lines=Hey+Devs!+I'm+Vishnu+here,+turning+caffeine+and+code+into+real-world+applications+👊🏼" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -8,20 +8,20 @@
 
 <!-- Visitor Badge + Links -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/vishnu-vardhan-reddy-padala-a3a13330b">
-  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" />
-</a>
-<a href="https://discord.com/users/">
-  <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" />
-</a>
-<a href="mailto:vishnuvardhan6842@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" />
-</a>
-<a href="https://anmolbaranwal.com/">
-  <img src="https://img.shields.io/badge/Portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" />
+  <a href="https://www.linkedin.com/in/vishnu-undefined-a3a13330b">
+  <img src="https://img.shields.io/badge/LinkedIn-d5d5d5?style=for-the-badge&logo=linkedin&logoColor=0A0209" alt="profile of LinkedIn with username Vishnu-Vardhan" />
 </a>
 <a href="https://dev.to/vishnu_03">
-  <img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" />
+  <img src="https://img.shields.io/badge/dev.to-d5d5d5?style=for-the-badge&logo=devdotto&logoColor=0A0209" alt="profile of Dev.to with username vishnu_03" />
+</a>
+<a href="http://anmolbaranwal.com/">
+  <img src="https://img.shields.io/badge/portfolio-d5d5d5?style=for-the-badge&logo=Portfolio&logoColor=0A0209" alt="portfolio of Vishnu Vardhan" />
+</a>
+<a href="mailto:vishnuvardhan6842@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-d5d5d5?style=for-the-badge&logo=gmail&logoColor=0A0209" alt="email of Vishnu i.e. vishnuvardhan6842@gmail.com" />
+</a>
+<a href="https://discord.com/users/">
+  <img src="https://img.shields.io/badge/Discord-d5d5d5?style=for-the-badge&logo=discord&logoColor=0A0209" alt="Discord profile of Vishnu" />
 </a>
   <br><br>
   <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FVishnuVardhanReddyPadala&countColor=%23263759" />
