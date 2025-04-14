@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=1004&lines=Hey+Devs!+I'm+Vishnu+here,+turning+caffeine+and+code+into+real-world+applications+👊🏼" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFFFFF&width=1004&lines=Hey+Devs!+Vishnu+here,+turning+caffeine+and+code+into+real-world+applications+👊🏼" alt="Typing SVG" />
 </p>
 
 <p align="center">
-   I love building applications with React and Machine Learning. I’m always focused on creating clean, efficient code 🧑‍💻 and building solutions that are user-friendly. Constantly learning and experimenting with new ideas to push the boundaries of what I can create
+   I love building applications with React and Machine Learning. I’m always focused on creating clean, efficient code 🧑‍💻 and building solutions that are user-friendly. Constantly learning and experimenting with new ideas to push the boundaries of what I can create.
 </p>
 
 <!-- Visitor Badge + Links -->
