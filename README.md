@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   I love building applications with React and Machine Learning. I’m always focused on creating clean, efficient code 🧑‍💻 and building solutions that are user-friendly. Constantly learning and experimenting with new ideas to push the boundaries of what I can create.
+   I love building applications with React and Machine Learning and am always focused on creating clean, efficient code 🧑‍💻 while developing solutions that are user-friendly. Lastly, I Constantly learn and experiment with new ideas to push the boundaries of what I can create.
 </p>
 
 <!-- Visitor Badge + Links -->
